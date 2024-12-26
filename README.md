@@ -10,6 +10,8 @@ Solution for the innoscripta take home challenge.
 
 **Voila! That's it—you should now be up and running and see a screen similar to this one:**
 
+![image](https://github.com/user-attachments/assets/ef1a8977-1247-4db1-bb34-bdc53e7b1563)
+
 
 
 **Now go to the browser and access the NewsFeed app at [http://localhost:3000](http://localhost:3000).**
